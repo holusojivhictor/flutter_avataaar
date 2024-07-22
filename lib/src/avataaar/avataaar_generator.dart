@@ -382,7 +382,7 @@ class AvataaarGenerator extends StatelessWidget {
           child: Center(
             child: Text(
               type,
-              style: Theme.of(context).textTheme.subtitle2,
+              style: Theme.of(context).textTheme.titleSmall,
             ),
           ),
         ),
